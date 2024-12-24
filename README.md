@@ -12,6 +12,7 @@ Git:
 
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-screenplay-starter/archive/master.zip) file.
 
+
 ## Use Maven
 
 Open a command window and run:
